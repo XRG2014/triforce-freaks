@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote-theme             : "mminimal/mistakes@master
+remote-theme             : "mminimal/mistakes@master"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -15,7 +15,7 @@ title                    : "The Triforce Freaks"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "XRG2014" # &name is a YAML anchor which can be *referenced later
-description              : &description "Unofficial fan website"
+description              : &description "Unofficial Zelda fan website"
 url                      : "https://xrg2014.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/triforce-freaks" # the subpath of your site, e.g. "/blog"
 repository               : "XRG2014/triforce-freaks"
