@@ -5,22 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote-theme             : "mminimal/mistakes@master"
+remote_theme             : "mmistakes/minimal-mistakes@master"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Triforce Freaks"
+title                    : "Minimal Mistakes"
 title_separator          : "-"
-subtitle                 : ""
-name                     : &name "XRG2014" # &name is a YAML anchor which can be *referenced later
-description              : &description "Unofficial Zelda fan website"
-url                      : "https://xrg2014.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/triforce-freaks" # the subpath of your site, e.g. "/blog"
-repository               : "XRG2014/triforce-freaks"
-teaser                   : "/assets/images/triforce-3d.png
-logo                     : "/assets/images/triforce-3d.png
+subtitle                 : "A Jekyll theme"
+name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+repository               : "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
