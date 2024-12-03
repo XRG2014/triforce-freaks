@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : &name "XRG2014" # &name is a YAML anchor which can be *referenced later
 description              : &description "Unofficial fan website"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xrg2014.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/triforce-freaks" # the subpath of your site, e.g. "/blog"
 repository               : "XRG2014/triforce-freaks"
 teaser                   : "/assets/images/triforce-3d.png
