@@ -1,19 +1,16 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+XRG2014:
+  name        : "XRG2014"
+  bio         : "IMMA HOSTIN THIS WEBSITE!!"
+  avatar      : "/assets/images/XRG2014.png"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
+    - label: "The XRG2014 Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://xrg2014.github.io"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github/XRG2014"
 
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
