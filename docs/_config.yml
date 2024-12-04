@@ -90,7 +90,21 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/profile.png"
+  avatar           : "/assets/images/favicon-96x96.png"
+  bio              : "The Triforce Freaks group"
+  location         : "Undefined"
+  links:
+    - label: "The XRG2014 Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://xrg2014.github.io"
+    - label: "Triforce Freaks GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/XRG2014/triforce-freaks"
+
+
+author:
+  name             : "test" # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/favicon-96x96.png"
   bio              : "The Triforce Freaks group"
   location         : "Undefined"
   links:
