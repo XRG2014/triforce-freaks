@@ -3,7 +3,7 @@ authors:
   - XRG2014
 permalink: /about/
 title: "About"
-excerpt: 'DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All pictures, characters, and related materials are © Nintendo.'
+excerpt: 'DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All Zelda pictures, characters, and related materials are © Nintendo.'
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -18,7 +18,7 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All pictures, characters, and related materials are © Nintendo. 
+DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All Zelda pictures, characters, and related materials are © Nintendo. 
 
 The Triforce Freaks are a group of Zelda fans that will post stuff on this fan site whenever they feel like it.
 
