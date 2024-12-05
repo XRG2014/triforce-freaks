@@ -4,10 +4,8 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/blog.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All Zelda pictures, characters, and related materials are © Nintendo.<br /><br />
   The Triforce Freaks are a group of Zelda fans that will post stuff on this fan site whenever they feel like it.<br />
