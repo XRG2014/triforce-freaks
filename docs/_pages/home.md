@@ -13,17 +13,17 @@ feature_row:
   - image_path: /assets/images/blog.png
     alt: "blog"
     title: "Blog"
-    excerpt: "The Triforce Freaks blog. We may post anything. You never know!"
+    excerpt: "The Triforce Freaks' Zelda blog. We may post anything. You never know!"
     url: "/blog"
     btn_class: "btn--primary"
     btn_label: "Open"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "tutorials"
+    title: "Tutorials"
+    excerpt: "The Triforce Freaks' Zelda tutorials. We may post anything. You never know!"
+    url: "/tutorials"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Open"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
