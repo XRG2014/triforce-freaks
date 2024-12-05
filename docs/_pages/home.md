@@ -9,16 +9,18 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  DISCLAIMER: This is an unofficial fan website for The Legend of Zelda called "The Triforce Freaks". This website is not endorsed in any way by © Nintendo, nor does it have any affiliation with it. All pictures, characters, and related materials are © Nintendo.
+
+The Triforce Freaks are a group of Zelda fans that will post stuff on this fan site whenever they feel like it.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "blog"
+    title: "Blog"
+    excerpt: "The Triforce Freaks blog. We may post anything. You never know!"
+    url: "/blog"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Open"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
