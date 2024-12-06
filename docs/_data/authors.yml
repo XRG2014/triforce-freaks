@@ -12,8 +12,8 @@ XRG2014:
       icon: "fab fa-fw fa-github"
       url: "https://github/XRG2014"
 
-Superdatanimations:
-  name        : "Superdatanimations"
+superdatanimations:
+  name        : "superdatanimations"
   bio         : ""
   avatar      : "/assets/images/Superdatanimations.jpg"
   links:
