@@ -17,7 +17,7 @@ feature_row:
     url: "/blog"
     btn_class: "btn--primary"
     btn_label: "Open"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/tutorials.png
     alt: "tutorials"
     title: "Tutorials"
     excerpt: "The Triforce Freaks' Zelda tutorials. We may post anything. You never know!"
