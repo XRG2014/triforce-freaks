@@ -22,3 +22,6 @@ This is a fan site about *The Legend of Zelda* for the Triforce Freaks. The Trif
 
   - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
   - [PNGWing](https://pngwing.com)
+
+
+<pre>{{ site.data.authors | jsonify }}</pre>
