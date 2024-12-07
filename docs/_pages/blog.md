@@ -1,7 +1,6 @@
 ---
 permalink: /blog/
 title: "Blog"
-author_profile: false
 ---
 
 ## Blog pages
