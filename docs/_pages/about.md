@@ -21,5 +21,4 @@ The Triforce Freaks are a group of Zelda fans that will post stuff on this fan s
 ### Images
 
   - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
-  - [Nintendo](https://nintendo.com)
   - [PNGWing](https://pngwing.com)
