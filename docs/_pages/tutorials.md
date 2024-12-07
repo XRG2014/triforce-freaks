@@ -1,5 +1,12 @@
 ---
 permalink: /tutorials/
 title: "Tutorials"
-toc: true
 ---
+
+<ul>
+{% for post in site.tutorials %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
