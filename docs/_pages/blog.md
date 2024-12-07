@@ -1,9 +1,10 @@
 ---
 permalink: /blog/
 title: "Blog"
+author_profile: false
 ---
 
-<h1>{{ page.title }}</h1>
+## Blog pages
 
 <ul>
 {% for post in site.blog %}
