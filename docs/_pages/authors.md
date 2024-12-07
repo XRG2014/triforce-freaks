@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <ul>
-  {% for author.id, author in site.data.authors %}
-  <li>{{ author.id }}: {{ author.name }}</li>
+  {% for author.name, author in site.data.authors %}
+  <li>{{ author.name }}: {{ author.name }}</li>
   {% endfor %}
 </ul>
