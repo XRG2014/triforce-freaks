@@ -3,8 +3,6 @@ permalink: /blog/
 title: "Blog"
 ---
 
-## Blog pages
-
 <ul>
 {% for post in site.blog %}
   <li>
