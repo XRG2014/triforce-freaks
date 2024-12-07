@@ -9,6 +9,6 @@ author_profile: false
 
 <ul>
   {% for author in site.data.authors %}
-  <li>{{ author.name }}</li>
+  <li>{{ author }}</li>
   {% endfor %}
 </ul>
