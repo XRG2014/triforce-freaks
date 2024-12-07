@@ -3,12 +3,12 @@ permalink: /blog/
 title: "Blog"
 ---
 
+<h1>{{ page.title }}</h1>
+
 <ul>
-{% for page in site.pages %}
-  {% if page.path contains 'docs/_blog/' %}
+{% for post in site.blog %}
   <li>
-    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </li>
-  {% endif %}
 {% endfor %}
 </ul>
