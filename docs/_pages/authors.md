@@ -10,7 +10,7 @@ author_profile: false
     {% assign author_data = author[1] %}
 
     {% if author_data.avatar %}
-    <img src="{{ author_data.avatar }}" alt="{{ author_data.name }}'s avatar" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 10px; float: left;">
+    <img src="https://xrg2014.github.io{{ '/' | relative_url }}{{ author_data.avatar }}" alt="{{ author_data.name }}'s avatar" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 10px; float: left;">
     {% endif %}
     
     <h2>{{ author_data.name }}</h2>
