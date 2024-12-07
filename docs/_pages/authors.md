@@ -5,4 +5,8 @@ permalink: /authors/
 author_profile: false
 ---
 
-<pre>{{ site.data.authors | jsonify }}</pre>
+<ul>
+  {% for author_id, author in site.data.authors %}
+  <li>{{ author_id }}: {{ author.name }}</li>
+  {% endfor %}
+</ul>
