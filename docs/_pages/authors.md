@@ -26,4 +26,21 @@ author_profile: false
     <p>{{ author_data.bio }}</p>
     {% endif %}
     
+    {% if author_data.links %}
+    <p><strong>Links:</strong></p>
+    <ul>
+      {% for link in author_data.links %}
+      <li>
+        <a href="{{ link.url }}" target="_blank">
+          {% if link.icon %}
+          <i class="{{ link.icon }}"></i>
+          {% endif %}
+          {{ link.label }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
   </div>
+  <div style="clear: both;"></div>
+{% endfor %}
