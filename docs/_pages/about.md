@@ -1,6 +1,5 @@
 ---
-authors:
-  - XRG2014
+author_profile: false
 permalink: /about/
 title: "About"
 ---
