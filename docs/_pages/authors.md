@@ -41,12 +41,10 @@ author_profile: false
     
     <!-- Follow Button -->
     {% for link in author_data.links %}
-      {% if link.label contains "GitHub" or link.label contains "Twitter" %}
-        <p>
-          <a href="{{ link.url }}" class="btn btn-primary" target="_blank">Follow</a>
-        </p>
-        {% break %}
-      {% endif %}
+      <p>
+        <a href="{{ link.url }}" class="btn btn-primary" target="_blank">Follow</a>
+      </p>
+      {% break %}
     {% endfor %}
   </div>
   <div style="clear: both;"></div>
