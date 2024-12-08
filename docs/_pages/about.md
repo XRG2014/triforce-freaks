@@ -10,7 +10,7 @@ This is an unofficial fan website for The Legend of Zelda called "The Triforce F
 
 ## Description
 
-This is a fan site about *The Legend of Zelda* for The Triforce Freaks. The Triforce Freaks are a group of Zelda fans.
+This is a fan site about *The Legend of Zelda* for the Triforce Freaks. The Triforce Freaks are a group of Zelda fans.
 
 ## Credits
 
