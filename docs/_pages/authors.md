@@ -48,6 +48,7 @@ author_profile: false
     {% endfor %}
   </div>
   <div class="author__urls-wrapper">
+    {% assign author = site.data.authors[1] %}
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
