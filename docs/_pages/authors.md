@@ -51,3 +51,5 @@ author_profile: false
   <div style="clear: both;"></div>
   {% endfor %}
 </div>
+
+{% include follow-button.html %}
