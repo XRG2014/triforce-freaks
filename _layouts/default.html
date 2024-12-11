@@ -26,7 +26,10 @@
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
+        {%- comment -%}
         {% include_cached footer.html %}
+        {%- endcomment -%}
+        {% include footer.html %}
       </footer>
     </div>
 
