@@ -5,8 +5,6 @@ permalink: /authors/
 author_profile: false
 ---
 
-## TEST
-
 <div class="authors-list">
   {% for author in site.data.authors %}
   <div class="author-card" style="margin-bottom: 2em;">
@@ -49,6 +47,7 @@ author_profile: false
       {% break %}
     {% endfor %}
   </div>
+  <p>{{ site.data.authors[1].name }}</p>
   <div class="author__urls-wrapper">
     {% assign author = site.data.authors[1] %}
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
