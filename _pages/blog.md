@@ -3,7 +3,7 @@ permalink: /blog/
 title: "Blog"
 ---
 
-## {{ post.title }}
+<h1>{{ post.title }}</h1>
 
 <ul>
 {% for post in site.blog %}
