@@ -2,7 +2,9 @@
 title: "Authors"
 layout: single
 permalink: /authors/
-author_profile: false
+authors
+  - XRG2014
+  - superdatanimations
 ---
 
 <div class="authors-list">
