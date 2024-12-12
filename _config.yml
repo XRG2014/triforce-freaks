@@ -181,6 +181,7 @@ defaults:
     values:
       layout: default
       author_profile: true
+      indent: true
   # _tutorials
   - scope:
       path: "_tutorials"
@@ -188,6 +189,7 @@ defaults:
     values:
       layout: default
       author_profile: true
+      indent: true
   # _pages
   - scope:
       path: "_pages"
@@ -195,6 +197,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      indent: true
   # _docs
 #  - scope:
 #      path: ""
