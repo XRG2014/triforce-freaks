@@ -4,6 +4,7 @@ permalink: /authors/
 authors:
   - XRG2014
   - superdatanimations
+layout: single
 ---
 
 <div class="authors-list">
