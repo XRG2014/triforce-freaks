@@ -2,6 +2,7 @@
 author_profile: false
 permalink: "/about/"
 title: "About"
+layout: single
 ---
 
 ## DISCLAIMER
