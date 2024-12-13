@@ -179,14 +179,14 @@ defaults:
       path: "_blog"
       type: blog
     values:
-      layout: default
+      layout: single
       author_profile: true
   # _tutorials
   - scope:
       path: "_tutorials"
       type: tutorials
     values:
-      layout: default
+      layout: single
       author_profile: true
   # _pages
   - scope:
