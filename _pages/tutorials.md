@@ -1,7 +1,7 @@
 ---
 permalink: /tutorials/
 title: "Tutorials"
-layout: single
+author_profile: false
 ---
 
 <ul>
