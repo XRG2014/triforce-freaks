@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/triforce-freaks-group.png"
+  avatar           : "/assets/images/favicon.png"
   bio              : "The Triforce Freaks group"
   links:
     - label: "Triforce Freaks GitHub"
