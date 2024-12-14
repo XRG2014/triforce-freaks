@@ -1,10 +1,6 @@
 ---
 title: "Authors"
 permalink: /authors/
-author_profile: true
-authors:
-  - XRG2014
-  - superdatanimations
 ---
 
 <div class="authors-list">
@@ -39,19 +35,9 @@ authors:
       </li>
       {% endfor %}
     </ul>
-    {% endif %}
-    
-    <!-- Follow Button -->
-    {% for link in author_data.links %}
-      <p>
-        <a href="{{ link.url }}" class="btn btn-primary" target="_blank">Follow</a>
-      </p>
-      {% break %}
-    {% endfor %}
+    {% endif %}  
   </div>
 
   <div style="clear: both;"></div>
   {% endfor %}
 </div>
-
-{% include follow-button.html %}
