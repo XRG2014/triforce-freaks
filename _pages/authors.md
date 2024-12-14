@@ -29,7 +29,7 @@ permalink: /authors/
         <i class="{{ link.icon }}"></i>
         {% endif %}
         {{ link.label }}
-      </a>
+      </a><li></li>
       {% endfor %}
     </ul>
     {% endif %}  
