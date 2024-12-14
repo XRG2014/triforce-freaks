@@ -22,7 +22,6 @@ permalink: /authors/
     
     <!-- Links -->
     {% if author_data.links %}
-    <p><strong>Links:</strong></p>
     <ul>
       {% for link in author_data.links %}
       <li>
