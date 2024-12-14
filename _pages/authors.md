@@ -1,6 +1,7 @@
 ---
 title: "Authors"
 permalink: /authors/
+author_profile: true
 authors:
   - XRG2014
   - superdatanimations
