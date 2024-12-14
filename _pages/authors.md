@@ -24,14 +24,12 @@ permalink: /authors/
     {% if author_data.links %}
     <ul>
       {% for link in author_data.links %}
-      <li>
-        <a href="{{ link.url }}" target="_blank">
-          {% if link.icon %}
-          <i class="{{ link.icon }}"></i>
-          {% endif %}
-          {{ link.label }}
-        </a>
-      </li>
+      <a href="{{ link.url }}" target="_blank">
+        {% if link.icon %}
+        <i class="{{ link.icon }}"></i>
+        {% endif %}
+        {{ link.label }}
+      </a>
       {% endfor %}
     </ul>
     {% endif %}  
