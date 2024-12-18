@@ -20,3 +20,7 @@ This is a fan site about *The Legend of Zelda* for the Triforce Freaks. The Trif
 ### Images
 
   - [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)
+
+  - <h4>Favicon stuff</h4>
+
+    - [RealFaviconGenerator](https://realfavicongenerator.net)
