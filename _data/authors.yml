@@ -16,10 +16,8 @@ superdatanimations:
   name        : "superdatanimations"
   bio         : ""
   avatar      : "/assets/images/superdatanimations.jpeg"
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:cornelius@thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/rhymeswithsackit"
+
+cheese_stick:
+  name        : "cheese stick"
+  bio         : ""
+  avatar      : "/assets/images/cheese_stick.jpg"
