@@ -13,14 +13,14 @@ feature_row:
   - image_path: /assets/images/blog.png
     alt: "blog"
     title: "Blog"
-    excerpt: "The Triforce Freaks' Zelda blog. We may post anything. You never know!"
+    excerpt: "The Triforce Freaks' Zelda blog. We may post anything. You never know! We don't promise anything though. This page could be completely empty for years, or be filled to the brim!"
     url: "/blog"
     btn_class: "btn--primary"
     btn_label: "Open"
   - image_path: /assets/images/tutorials.png
     alt: "tutorials"
     title: "Tutorials"
-    excerpt: "The Triforce Freaks' Zelda tutorials. We may post anything. You never know!"
+    excerpt: "The Triforce Freaks' Zelda tutorials. We may post anything. You never know! We don't promise anything though. This page could be completely empty for years, or be filled to the brim!"
     url: "/tutorials"
     btn_class: "btn--primary"
     btn_label: "Open"
