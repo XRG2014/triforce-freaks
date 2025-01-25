@@ -3,7 +3,7 @@
 XRG2014:
   name        : "XRG2014"
   bio         : "IMMA HOSTIN THIS WEBSITE!!"
-  avatar      : "https://raw.githubusercontent.com/XRG2014/triforce-freaks/refs/heads/master/assets/images/XRG2014.jpg"
+  avatar      : "/assets/images/XRG2014.jpg"
   links:
     - label: "The XRG2014 Website"
       icon: "fas fa-fw fa-link"
@@ -15,9 +15,9 @@ XRG2014:
 superdatanimations:
   name        : "superdatanimations"
   bio         : ""
-  avatar      : "https://raw.githubusercontent.com/XRG2014/triforce-freaks/refs/heads/master/assets/images/superdatanimations.jpeg"
+  avatar      : "/assets/images/superdatanimations.jpeg"
 
 cheese_stick:
   name        : "cheese stick"
   bio         : ""
-  avatar      : "https://raw.githubusercontent.com/XRG2014/triforce-freaks/refs/heads/master/assets/images/cheese_stick.jpg"
+  avatar      : "/assets/images/cheese_stick.jpg"
