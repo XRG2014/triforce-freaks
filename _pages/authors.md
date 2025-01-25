@@ -9,7 +9,7 @@ permalink: /authors/
     <!-- Avatar -->
     {% assign author_data = author[1] %}
     {% if author_data.avatar %}
-    <img src="https://xrg2014.github.io{{ '/' | relative_url }}{{ author_data.avatar }}" alt="{{ author_data.name }}'s avatar" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 10px; float: left;">
+    <img src="{{ site.url }}{{ site.baseurl }}{{ author_data.avatar }}" alt="{{ author_data.name }}'s avatar" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 10px; float: left;">
     {% endif %}
     
     <!-- Name -->
